@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606446741951",
+    "project_id": "passwordup",
+    "storage_bucket": "passwordup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606446741951:android:640fe9ed2a8b48bce9990a",
+        "android_client_info": {
+          "package_name": "com.example.passwordup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFau9tmrUzgRYkaW1NWqtK3-oL8vrzROE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
